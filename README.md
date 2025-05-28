@@ -32,7 +32,6 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Java Struts](https://img.shields.io/badge/Struts-6DB33F?style=for-the-badge&logo=apache&logoColor=white)
 
-### AI & Emerging Technologies  
 ### AI & Emerging Technologies
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
@@ -55,8 +54,8 @@
 ![CI/CD](https://img.shields.io/badge/CI/CD-20c997?style=for-the-badge&logo=git&logoColor=white)
 
 ### Databases  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
 </div>
