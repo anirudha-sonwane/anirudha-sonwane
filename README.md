@@ -56,29 +56,29 @@
 
 ## 🏆 Featured Projects
 
-### 🚢 Maritime Intelligence Platform  
-> *AI-powered shipping document intelligence*  
-- **Stack**: Spring Boot, Angular, PostgreSQL, AWS S3  
-- **Highlight**: Integrated with U.S. Customs, awarded for accuracy
-
 ### 🤖 Trade Classification AI System  
 > *Classifies HS codes from natural language*  
-- **Stack**: LangChain, Vector DB, Streamlit, Flask, CrewAI  
+- **Stack**: LangChain, Vector DB, Streamlit, Flask, CrewAI, LLM
 - **Features**: Prompt chaining, semantic search, real-time response
 
 ### 📊 International Trade Pipeline  
 > *Bulk trade data extraction from PDFs*  
 - **Stack**: Python, PyMuPDF, PdfPlumber, PostgreSQL, AWS  
-- **Impact**: Processes 1,000s of documents daily
+- **Impact**: Processes over 1,000 documents daily; recognized for high accuracy in handling dynamic formats using multiple PDF libraries
+
+### ⚡ Intelligent Automation Bots  
+> *Boosts team productivity with AI bots*  
+- **Bots**: Circle.so (Cogniswitch), Discord (Azure AI), AWS Lambda (Emails)
+
+### 🚢 Maritime Intelligence Platform  
+> *AI-powered shipping document intelligence*  
+- **Stack**: Spring Boot, Angular, PostgreSQL, AWS S3  
+- **Highlight**: Integrated with U.S. Customs
 
 ### 🏥 Healthcare CRM Suite  
 > *Manages appointments, payments, SMS & analytics*  
 - **Stack**: Spring Boot, Angular, Payment Gateways, SMS APIs  
 - **Impact**: Improved patient experience & operations
-
-### ⚡ Intelligent Automation Bots  
-> *Boosts team productivity with AI bots*  
-- **Bots**: Circle.so (Cogniswitch), Discord (Azure AI), AWS Lambda (Emails)
 
 ---
 
