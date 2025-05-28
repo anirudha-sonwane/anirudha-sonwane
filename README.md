@@ -25,18 +25,27 @@
 <div align="center">
 
 ### Languages & Frameworks  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Java Struts](https://img.shields.io/badge/Struts-6DB33F?style=for-the-badge&logo=apache&logoColor=white)
 
 ### AI & Emerging Technologies  
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logo=github&logoColor=white)
+### AI & Emerging Technologies
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF5733?style=for-the-badge&logo=airbnb&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=llama&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logo=robot&logoColor=white)
+![Mixtral](https://img.shields.io/badge/Mixtral-8B5CF6?style=for-the-badge&logo=mistral&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF5733?style=for-the-badge&logo=brain&logoColor=white)
+![Vector Databases](https://img.shields.io/badge/Vector_DB-00D4AA?style=for-the-badge&logo=database&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-9333EA?style=for-the-badge&logo=search&logoColor=white)
+![Multi Agent](https://img.shields.io/badge/Multi_Agent_AI-E11D48?style=for-the-badge&logo=users&logoColor=white)
 
 ### Cloud & DevOps  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
