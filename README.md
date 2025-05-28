@@ -94,8 +94,6 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anirudha-sonwane&show_icons=true&theme=radical&hide_border=true)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=anirudha-sonwane&color=brightgreen&style=flat-square)
 
 </div>
