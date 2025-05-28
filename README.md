@@ -72,7 +72,7 @@
 ### 📊 International Trade Pipeline  
 > *Bulk trade data extraction from PDFs*  
 - **Stack**: Python, PyMuPDF, PdfPlumber, PostgreSQL, AWS  
-- **Impact**: Processes over 1,000 documents daily; recognized for high accuracy in handling dynamic formats using multiple PDF libraries
+- **Impact**: Processes over 1,000+ documents daily; recognized for high accuracy in handling dynamic formats using multiple PDF libraries
 
 ### ⚡ Intelligent Automation Bots  
 > *Boosts team productivity with AI bots*  
@@ -109,46 +109,13 @@
 ```python
 class CurrentFocus:
     def __init__(self):
-        self.learning = [
-            "Multi-Agent AI Frameworks (CrewAI, LangGraph)", 
-            "Advanced Vector Database Optimization",
-            "Prompt Engineering & Chain-of-Thought Reasoning"
-        ]
-        
-        self.building = [
-            "AI-Powered Trade Document Processing Pipeline",
-            "Intelligent Maritime Data Extraction Systems", 
-            "Generative AI Chatbots for Enterprise Automation",
-            "Cloud-Native ML Model Deployment (AWS/Azure)"
-        ]
-        
-        self.exploring = [
-            "Neo4j Graph Databases for Trade Intelligence",
-            "RAG (Retrieval Augmented Generation) Architectures",
-            "LangChain Custom Tool Development",
-            "Microservices with Spring Boot & AI Integration"
-        ]
-        
-        self.expertise = {
-            "ai_frameworks": ["LangChain", "CrewAI", "Azure AI", "Cogniswitch"],
-            "backend": ["Spring Boot", "Flask", "Java", "Python"],
-            "cloud": ["AWS Lambda", "S3", "Azure", "CI/CD Pipelines"],
-            "databases": ["PostgreSQL", "MySQL", "Vector DBs", "Neo4j"]
-        }
-        
-        self.goal = "Architecting intelligent systems that transform complex business processes into seamless, AI-driven workflows"
+        self.learning = ["Multi-Agent AI (CrewAI, LangGraph)", "Vector DB Optimization", "Advanced RAG Architectures"]
+        self.building = ["AI Trade Document Pipeline", "Maritime Intelligence Systems", "Enterprise AI Chatbots"]
+        self.exploring = ["Neo4j Graph Intelligence", "Custom LangChain Tools", "Cloud-Native ML Deployment"]
+        self.mission = "🧠 Generative AI • 📊 Document Intelligence • 🚢 Maritime Systems • ⚡ Enterprise Automation"
     
     def get_passion(self):
-        return "Building the future where AI enhances human potential across industries 🚀🤖"
-    
-    def get_current_mission(self):
-        return """
-        Specializing in:
-        • 🧠 Generative AI & LLM Integration
-        • 📊 Intelligent Document Processing 
-        • 🚢 Maritime & Trade Intelligence Systems
-        • ⚡ Enterprise Automation Solutions
-        """
+        return "Transforming industries through intelligent automation 🚀🤖"
 ```
 
 ---
