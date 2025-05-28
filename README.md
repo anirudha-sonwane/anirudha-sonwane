@@ -96,8 +96,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anirudha-sonwane&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anirudha-sonwane&layout=compact&langs_count=8&hide_border=true&theme=radical)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=anirudha-sonwane&color=brightgreen&style=flat-square)
 
 </div>
