@@ -92,11 +92,33 @@
 
 ## 📈 GitHub Analytics
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anirudha-sonwane&show_icons=true&theme=radical&hide_border=true)
+  <div style="min-width: 280px; max-width: 320px;">
+    <h4>GitHub Stats</h4>
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=anirudha-sonwane&show_icons=true&theme=radical&hide_border=true&count_private=true"
+      alt="GitHub Stats"
+      height="160"
+      style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);" />
+  </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=anirudha-sonwane&color=brightgreen&style=flat-square)
+  <div style="min-width: 280px; max-width: 320px;">
+    <h4>Top Languages</h4>
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudha-sonwane&layout=compact&langs_count=8&theme=radical&hide_border=true&count_private=true"
+      alt="Top Languages"
+      height="160"
+      style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);" />
+  </div>
+
+  <div style="min-width: 180px; max-width: 220px; text-align: center;">
+    <h4>Profile Views</h4>
+    <img
+      src="https://komarev.com/ghpvc/?username=anirudha-sonwane&color=brightgreen&style=flat-square"
+      alt="Profile Views"
+      style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);" />
+  </div>
 
 </div>
 
