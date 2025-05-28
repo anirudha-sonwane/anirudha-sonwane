@@ -2,11 +2,10 @@
 
 <div align="center">
 
-### 💻 Software Engineer | 🤖 AI Enthusiast | ☁️ Cloud Developer
-
+### 💻 Software Engineer | 🤖 AI Enthusiast | ☁️ Cloud Developer  
 *Building intelligent solutions that bridge technology and real-world impact*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/anirudha-sonwane-17477086)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirudha-sonwane-17477086)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aniruddha.sonawane@gmail.com)
 
 </div>
@@ -15,9 +14,9 @@
 
 ## 🚀 About Me
 
-**4+ years** of full-stack development experience specializing in **AI-powered solutions** and **enterprise applications**. Currently crafting innovative solutions at **Giant Leap Systems**, where I transform complex business challenges into scalable, intelligent systems.
+**4+ years** of full-stack development experience specializing in **AI-powered solutions** and **enterprise-grade systems**. Currently building intelligent products at **Giant Leap Systems**, solving problems in healthcare, shipping, and trade automation.
 
-🎯 **Mission**: Leveraging cutting-edge AI and cloud technologies to solve real-world problems in healthcare, maritime trade, and business automation.
+🎯 **Mission**: Merging AI and cloud technologies to simplify complex workflows and deliver real-world value.
 
 ---
 
@@ -25,25 +24,28 @@
 
 <div align="center">
 
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Languages & Frameworks  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Java Struts](https://img.shields.io/badge/Struts-6DB33F?style=for-the-badge&logo=apache&logoColor=white)
 
-### AI & Machine Learning
+### AI & Emerging Technologies  
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logo=github&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Azure AI](https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF5733?style=for-the-badge&logo=airbnb&logoColor=white)
 
-### Cloud & DevOps
+### Cloud & DevOps  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-20c997?style=for-the-badge&logo=git&logoColor=white)
 
-### Databases
+### Databases  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
@@ -54,35 +56,29 @@
 
 ## 🏆 Featured Projects
 
-### 🚢 **Maritime Intelligence Platform**
-> *Revolutionizing shipping operations with AI-powered insights*
-- **Tech Stack**: Spring Boot, Angular, PostgreSQL, AWS S3
-- **Impact**: Integrated with U.S. Customs systems for Shipping
-- **Achievement**: Internal award for accuracy and flexibility
+### 🚢 Maritime Intelligence Platform  
+> *AI-powered shipping document intelligence*  
+- **Stack**: Spring Boot, Angular, PostgreSQL, AWS S3  
+- **Highlight**: Integrated with U.S. Customs, awarded for accuracy
 
-### 🤖 **AI-Powered Trade Classification System**
-> *Intelligent HS code identification using natural language processing*
-- **Tech Stack**: LangChain, Vector Databases, Streamlit, Flask, Crew AI
-- **Features**: Multi-step prompts, semantic search, real-time classification
-- **Use Case**: Streamlining international trade documentation
+### 🤖 Trade Classification AI System  
+> *Classifies HS codes from natural language*  
+- **Stack**: LangChain, Vector DB, Streamlit, Flask, CrewAI  
+- **Features**: Prompt chaining, semantic search, real-time response
 
-### 📊 **International Trade Intelligence Pipeline**
-> *Scalable PDF data extraction for trade insights*
-- **Tech Stack**: Python, PyMuPDF, PdfPlumber, PostgreSQL, AWS
-- **Performance**: Processes thousands of trade documents daily
-- **Recognition**: Company-wide award for innovation
+### 📊 International Trade Pipeline  
+> *Bulk trade data extraction from PDFs*  
+- **Stack**: Python, PyMuPDF, PdfPlumber, PostgreSQL, AWS  
+- **Impact**: Processes 1,000s of documents daily
 
-### 🏥 **Healthcare CRM Suite**
-> *Comprehensive patient management and booking system*
-- **Tech Stack**: Spring Boot, Angular, Payment Gateways, SMS APIs
-- **Features**: Google Analytics integration, custom calendar UI
-- **Impact**: Enhanced patient experience and operational efficiency
+### 🏥 Healthcare CRM Suite  
+> *Manages appointments, payments, SMS & analytics*  
+- **Stack**: Spring Boot, Angular, Payment Gateways, SMS APIs  
+- **Impact**: Improved patient experience & operations
 
-### ⚡ **Intelligent Automation Bots**
-> *AI assistants for workplace productivity*
-- **Circle.so Bot**: Internal query handling with Cogniswitch AI
-- **Discord Bot**: Leave tracking with Azure AI integration
-- **Email Engine**: AWS Lambda-powered dynamic marketing automation
+### ⚡ Intelligent Automation Bots  
+> *Boosts team productivity with AI bots*  
+- **Bots**: Circle.so (Cogniswitch), Discord (Azure AI), AWS Lambda (Emails)
 
 ---
 
@@ -92,7 +88,9 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anirudha-sonwane&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anirudha-sonwane&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anirudha-sonwane&layout=compact&langs_count=8&hide_border=true&theme=radical)
+
+![Profile Views](https://komarev.com/ghpvc/?username=anirudha-sonwane&color=brightgreen&style=flat-square)
 
 </div>
 
@@ -103,13 +101,46 @@
 ```python
 class CurrentFocus:
     def __init__(self):
-        self.learning = ["Advanced AI Agents", "Multi-Agent Frameworks", "CrewAI"]
-        self.building = ["Intelligent Document Processing", "Maritime AI Solutions"]
-        self.exploring = ["Neo4j Graph Databases", "Advanced Prompt Engineering"]
-        self.goal = "Creating AI solutions that make complex workflows simple"
+        self.learning = [
+            "Multi-Agent AI Frameworks (CrewAI, LangGraph)", 
+            "Advanced Vector Database Optimization",
+            "Prompt Engineering & Chain-of-Thought Reasoning"
+        ]
+        
+        self.building = [
+            "AI-Powered Trade Document Processing Pipeline",
+            "Intelligent Maritime Data Extraction Systems", 
+            "Generative AI Chatbots for Enterprise Automation",
+            "Cloud-Native ML Model Deployment (AWS/Azure)"
+        ]
+        
+        self.exploring = [
+            "Neo4j Graph Databases for Trade Intelligence",
+            "RAG (Retrieval Augmented Generation) Architectures",
+            "LangChain Custom Tool Development",
+            "Microservices with Spring Boot & AI Integration"
+        ]
+        
+        self.expertise = {
+            "ai_frameworks": ["LangChain", "CrewAI", "Azure AI", "Cogniswitch"],
+            "backend": ["Spring Boot", "Flask", "Java", "Python"],
+            "cloud": ["AWS Lambda", "S3", "Azure", "CI/CD Pipelines"],
+            "databases": ["PostgreSQL", "MySQL", "Vector DBs", "Neo4j"]
+        }
+        
+        self.goal = "Architecting intelligent systems that transform complex business processes into seamless, AI-driven workflows"
     
     def get_passion(self):
-        return "Transforming industries through intelligent automation 🚀"
+        return "Building the future where AI enhances human potential across industries 🚀🤖"
+    
+    def get_current_mission(self):
+        return """
+        Specializing in:
+        • 🧠 Generative AI & LLM Integration
+        • 📊 Intelligent Document Processing 
+        • 🚢 Maritime & Trade Intelligence Systems
+        • ⚡ Enterprise Automation Solutions
+        """
 ```
 
 ---
