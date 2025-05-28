@@ -129,9 +129,6 @@ I'm always excited to discuss:
 
 ### 📫 Reach Out
 - 📧 **Email**: aniruddha.sonawane@gmail.com
-- 📱 **Phone**: +91 8600557701
-- 📍 **Location**: Pune, Maharashtra, India
-
 ---
 
 <div align="center">
