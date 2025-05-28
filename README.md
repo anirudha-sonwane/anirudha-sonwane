@@ -138,8 +138,6 @@ I'm always excited to discuss:
 
 *"Technology is best when it brings people together and solves real problems."*
 
-**⭐ If you find my work interesting, don't forget to star my repositories! ⭐**
-
-![Profile Views](https://komarev.com/ghpvc/?username=anirudha-sonwane&color=brightgreen&style=flat-square)
+**⭐ Thanks for visiting my profile! ⭐**
 
 </div>
