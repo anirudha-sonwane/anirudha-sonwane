@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-**4+ years** of full-stack development experience specializing in **AI-powered solutions** and **enterprise-grade systems**. Currently building intelligent products at **Giant Leap Systems**, solving problems in healthcare, shipping, and trade automation.
+**5+ years** of full-stack development experience specializing in **AI-powered solutions** and **enterprise-grade systems**. Currently building intelligent products at **Giant Leap Systems**, solving problems in healthcare, shipping, and trade automation.
 
 🎯 **Mission**: Merging AI and cloud technologies to simplify complex workflows and deliver real-world value.
 
