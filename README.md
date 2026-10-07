@@ -5,7 +5,7 @@
 ### 💻 Software Engineer | 🤖 AI Enthusiast | ☁️ Cloud Developer  
 *Building intelligent solutions that bridge technology and real-world impact*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirudha-sonwane-17477086)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirudha-sonwane/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aniruddha.sonawane@gmail.com)
 
 </div>
